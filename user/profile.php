@@ -39,10 +39,10 @@
           </div>
           <ul class="nav navbar-nav nav-flex-icons ml-auto">
             <li class="nav-item">
-              <a class="nav-link text-warning" href="/grubbery/index.php"><i class="fa fa-envelope"></i> <span class="clearfix d-none d-sm-inline-block">Home</span></a>
+              <a class="nav-link text-warning" href="../index.php"><i class="fa fa-envelope"></i> <span class="clearfix d-none d-sm-inline-block">Home</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-warning" href="/grubbery/about.php"><i class="fa fa-comments-o"></i> <span class="clearfix d-none d-sm-inline-block">About Us</span></a>
+              <a class="nav-link text-warning" href="../about.php"><i class="fa fa-comments-o"></i> <span class="clearfix d-none d-sm-inline-block">About Us</span></a>
             </li>
            
             <li class="nav-item dropdown">
@@ -51,12 +51,12 @@
                 My Account
               </a>
               <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
-                <a class="dropdown-item text-warning" href="#">Login</a>
-                <a class="dropdown-item text-warning" href="#">Register</a>
+                <a class="dropdown-item text-warning" href="user/index.php">Login</a>
+                <a class="dropdown-item text-warning" href="user/user_register.php">Register</a>
               </div>
             </li>
              <li class="nav-item">
-              <a class="nav-link text-warning" href="/grubbery/contact.php"><i class="fa fa-user"></i> <span class="clearfix d-none d-sm-inline-block">Contact</span></a>
+              <a class="nav-link text-warning" href="../contact.php"><i class="fa fa-user"></i> <span class="clearfix d-none d-sm-inline-block">Contact</span></a>
             </li>
           </ul>
         </nav>
