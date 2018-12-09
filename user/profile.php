@@ -51,8 +51,8 @@
                 My Account
               </a>
               <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
-                <a class="dropdown-item text-warning" href="user/index.php">Login</a>
-                <a class="dropdown-item text-warning" href="user/user_register.php">Register</a>
+                <a class="dropdown-item text-warning" href="index.php">Login</a>
+                <a class="dropdown-item text-warning" href="user_register.php">Register</a>
               </div>
             </li>
              <li class="nav-item">
